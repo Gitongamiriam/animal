@@ -1,0 +1,10 @@
+.intro{
+    font-style:italic;
+}
+.Author{
+    color:red;
+    font-size:10px;
+}
+p.Author{
+    font-size:12px;
+}
